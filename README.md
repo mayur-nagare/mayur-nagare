@@ -10,5 +10,4 @@
 ⚡ Fun fact:  I also post my Nature Photograhs on Instagram - <a href="https://www.instagram.com/mayur_o_graphy/">@mayur_o_graphy</a>
 
 ### </> Languages & 🛠 Tools I work upon :
-
-[test.zip](https://github.com/mayur-nagare/mayur-nagare/files/6506427/test.zip)
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
