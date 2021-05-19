@@ -10,7 +10,4 @@
 ⚡ Fun fact:  I also post my Nature Photograhs on Instagram - <a href="https://www.instagram.com/mayur_o_graphy/">@mayur_o_graphy</a>
 
 ### </> Languages & 🛠 Tools I work upon :
-![c++](https://user-images.githubusercontent.com/52483736/118767680-b6212800-b89b-11eb-82ba-fd1e45922747.png)
-![mongodb](https://user-images.githubusercontent.com/52483736/118767685-b7525500-b89b-11eb-9045-7f4ea09bf6a7.png)
-![python](https://user-images.githubusercontent.com/52483736/118767686-b7eaeb80-b89b-11eb-8eaa-bb00af034203.png)
-![sql](https://user-images.githubusercontent.com/52483736/118767690-b8838200-b89b-11eb-8d9e-bef7c2e79cd1.jpg)
+https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465
