@@ -10,4 +10,4 @@
 ⚡ Fun fact:  I also post my Nature Photograhs on Instagram - <a href="https://www.instagram.com/mayur_o_graphy/">@mayur_o_graphy</a>
 
 ### </> Languages & 🛠 Tools I work upon :
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://camo.githubusercontent.com/9a7bd454ae6d1438ac3a1e37a5a379b5261554ffe8beb15d48dd3114e0b1fb81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"/>
